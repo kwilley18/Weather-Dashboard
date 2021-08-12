@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+    background-color: #cfebfd;
+    font-family: 'Fredoka One', cursive;
+}
+
+ul.list-group.list-group-flush {
+    margin-top: 20px;
+}
+
+#add-city.btn.btn-primary {
+    margin-bottom: 10px;
+}
+
+div.card {
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 8px;
+}
+.card-text{
+    border-radius: 8px;
+
+}
+
+.list-group.list-group-flush {
+    background-color: #D8FFFF;
+    border-color: #D8FFFF;
+}
+
+.btn.btn-primary {
+    background-color: #FEE1CD;
+    border-color: #FEE1CD;
+}
